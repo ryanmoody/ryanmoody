@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ryan Moody 👋 💻 👽
 
-<img src="https://github.com/ryanmoody/ryanmoody/blob/master/gh-cover-image.png?raw=true">
+<img src="https://github.com/ryanmoody/ryanmoody/blob/master/cover.png?raw=true">
 
 <!--
 **ryanmoody/ryanmoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
