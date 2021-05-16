@@ -1,2 +1,2 @@
-# Hello, world!
-I am a **Front End Software Engineer** working mainly with JavaScript, React, Redux and Node.
+# Ryan Moody
+I'm a web developer and designer based out of San Antonio, Texas.
