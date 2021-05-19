@@ -1,2 +1,2 @@
-# Ryan moody.
-Web designer. Web developer.
+# Ryan Moody
+Web Design & Development
