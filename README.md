@@ -1,2 +1,2 @@
-# Ryan Moody
-I'm a web developer and designer based out of San Antonio, Texas.
+# Ryan moody.
+Web designer. Web developer.
