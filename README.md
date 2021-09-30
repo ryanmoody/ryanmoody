@@ -1,1 +1,6 @@
-Ryan Moody - `Front End Engineer`
+```
+{
+  name: "Ryan Moody",
+  role: "Front End Engineer"
+}
+```
