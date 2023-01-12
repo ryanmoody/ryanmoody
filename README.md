@@ -1,9 +1,12 @@
-
 # Hi, I'm Ryan! 👋
 
 
 ## 🚀 About Me
-I'm a Senior Frontend Engineer currently working at Guild.
+🧑‍💻 I'm a Senior Frontend Engineer currently working at Guild.
+
+😄 Pronouns (He/Him)
+
+🧠 I'm currently learning more about accessibility and studying for the IAAP certifications.
 
 
 ## 🛠 Skills
